@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<lowboy>
+    <trips>
+        <trip id="2" name_of_trip="poehali_1" distanse="500" duration="8" paiment="50" />
+    </trips>
+    <drivers>
+        <driver id="1" name="Pavel" surename="Kolesnikov" xp="15" />
+    </drivers>
+    <complete_s>
+        <complete id="1" departure="20.10.2111" arrival="01.11.2222" premium="10">
+            <trip id="1" />
+            <driver id="1" />
+        </complete>
+    </complete_s>
+</lowboy>

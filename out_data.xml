@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<lowboy>
+	<trips>
+		<trip id="1" name_of_trip="Vladivistok-Habarovsk" distanse="765" duration="765" paiment="57" />
+		<trip id="0" name_of_trip="pusto" distanse="0" duration="0" paiment="0" />
+	</trips>
+	<drivers>
+		<driver id="1" name="Alexey" surename="Zont" xp="2" />
+	</drivers>
+	<complete_s>
+		<complete id="2" departure="20.10.2020" arrival="01.11.2020" premium="10">
+			<trip id="1" />
+			<trip name_of_trip="Vladivistok-Habarovsk" />
+			<driver id="1" />
+		</complete>
+	</complete_s>
+</lowboy>
